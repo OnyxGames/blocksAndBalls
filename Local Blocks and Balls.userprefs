@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\Google Drive\Video Games\Blocks and Balls\UPDATED\Local Blocks and Balls\Assets\Scripts\Main_Menu_Highscore_Script.cs">
+    <Files>
+      <File FileName="..\..\..\Google Drive\Video Games\Blocks and Balls\UPDATED\Local Blocks and Balls\Assets\Scripts\Game_Controller.cs" Line="11" Column="33" />
+      <File FileName="..\..\..\Google Drive\Video Games\Blocks and Balls\UPDATED\Local Blocks and Balls\Assets\Scripts\Game_Over_Menu_Script.cs" Line="15" Column="4" />
+      <File FileName="..\..\..\Google Drive\Video Games\Blocks and Balls\UPDATED\Local Blocks and Balls\Assets\Scripts\Main_Menu_Highscore_Script.cs" Line="14" Column="4" />
+      <File FileName="..\..\..\Google Drive\Video Games\Blocks and Balls\UPDATED\Local Blocks and Balls\Assets\Scripts\Intro_Scene_Script.cs" Line="1" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

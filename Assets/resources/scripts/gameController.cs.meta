@@ -1,0 +1,38 @@
+fileFormatVersion: 2
+guid: 86fdf42d95e4747428f637fef5f7ddb5
+timeCreated: 1437976641
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - primaryBrick: {instanceID: 0}
+  - secondaryBrick: {instanceID: 0}
+  - primaryBall: {instanceID: 0}
+  - secondaryBall: {instanceID: 0}
+  - blueBall: {fileID: 21300000, guid: 502398b9ab9800643ade24ede6640d4f, type: 3}
+  - blueBrick: {fileID: 21300000, guid: bdefec738e1fbcb45a85ad9490a400a0, type: 3}
+  - redBall: {fileID: 21300000, guid: 1e6728705a38f64478314e4614fc6e15, type: 3}
+  - redBrick: {fileID: 21300000, guid: 5fbd4a6c27c7e5b418cece75256c8f22, type: 3}
+  - yellowBall: {fileID: 21300000, guid: 379dc3527309c2149abe51a21b368abc, type: 3}
+  - yellowBrick: {instanceID: 0}
+  - orangeBall: {instanceID: 0}
+  - orangeBrick: {instanceID: 0}
+  - tealBall: {instanceID: 0}
+  - tealBrick: {instanceID: 0}
+  - pinkBall: {instanceID: 0}
+  - pinkBrick: {instanceID: 0}
+  - whiteBall: {instanceID: 0}
+  - whiteBrick: {instanceID: 0}
+  - blackBall: {instanceID: 0}
+  - blackBrick: {instanceID: 0}
+  - greyBall: {instanceID: 0}
+  - greyBrick: {instanceID: 0}
+  - greenBall: {instanceID: 0}
+  - greenBrick: {instanceID: 0}
+  - scoreGUI: {instanceID: 0}
+  - ballCountGUI: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

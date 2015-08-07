@@ -1,0 +1,25 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Plugins\Android\unityads\res\values\strings.xml">
+    <Files>
+      <File FileName="Assets\Plugins\Android\unityads\res\values\strings.xml" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Main_Menu_Controller.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Ball_Script.cs" Line="95" Column="35" />
+      <File FileName="Assets\Scripts\Game_Over_Menu_Script.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Game_Over_Controller.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Options_Brick.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Main_Menu_Brick.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\And_Brick.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Intro_Scene_Script.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Extra_Ball_Block_Top_Script.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Extra_Ball_Block_Bottom_Script.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Touch_Input.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Game_Controller.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Back_Button_Script.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
